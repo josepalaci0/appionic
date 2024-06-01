@@ -8,6 +8,7 @@ Este proyecto es una aplicación móvil desarrollada con Ionic que permite gesti
 
 Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
 
+- Linux : Desde alli se montara todo lo correspondiente al funcionamiento de la solucion
 - Node.js y npm: [Descargar e instalar Node.js](https://nodejs.org/)
 - MongoDB: [Instrucciones de instalación de MongoDB](https://docs.mongodb.com/manual/installation/)
 - Ionic Framework: [Instrucciones de instalación de Ionic](https://ionicframework.com/docs/intro/cli)
@@ -19,7 +20,11 @@ Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
    ```bash
    git clone https://github.com/josepalaci0/appionic.git
 
-  
+## Importante 
+
+1. El Proyecto funciona con un sistema API-HTTP, debes arrancar el Frontend y el backend , por separado en diferentes puertos.
+2. se toma encuenta , que se trabajara con typeScript, y se debe comprender en un nivel basico el funcinamiento de Node js. 
+3. se tiene presente  , que debes  manejar la consola de linux, para poder arrancar  completo en linux y mongoDB. 
 
 Una vez que hayas configurado e iniciado tanto el backend como el frontend, puedes interactuar con la aplicación siguiendo estos pasos:
 
