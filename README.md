@@ -7,12 +7,7 @@ Este proyecto es una aplicación móvil desarrollada con Ionic que permite gesti
 ## Requisitos
 
 Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
-<<<<<<< HEAD
-
-- Linux : Desde alli se montara todo lo correspondiente al funcionamiento de la solucion
-=======
 - Conocimietos moderados en LINUX
->>>>>>> a59d24afda26c15c58d6b29f519607e68d594529
 - Node.js y npm: [Descargar e instalar Node.js](https://nodejs.org/)
 - MongoDB: [Instrucciones de instalación de MongoDB](https://docs.mongodb.com/manual/installation/)
 - Ionic Framework: [Instrucciones de instalación de Ionic](https://ionicframework.com/docs/intro/cli)
